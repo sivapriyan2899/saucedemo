@@ -1,0 +1,8 @@
+05:25:11 [main] INFO  base.BaseClass:45 - Initializing browser
+05:25:13 [main] INFO  base.BaseClass:55 - Closing browser
+05:25:13 [main] INFO  base.BaseClass:45 - Initializing browser
+05:25:14 [main] INFO  base.BaseClass:55 - Closing browser
+05:25:14 [main] INFO  base.BaseClass:45 - Initializing browser
+05:25:16 [main] INFO  base.BaseClass:55 - Closing browser
+05:25:16 [main] INFO  base.BaseClass:45 - Initializing browser
+05:25:17 [main] INFO  base.BaseClass:55 - Closing browser

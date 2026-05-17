@@ -1,0 +1,30 @@
+06:07:50 [main] INFO  base.BaseClass:45 - Initializing browser
+06:07:52 [main] INFO  base.BaseClass:26 - initializing page elements
+06:07:52 [main] INFO  base.BaseClass:31 - typing username
+06:07:52 [main] INFO  base.BaseClass:33 - typing password
+06:07:52 [main] INFO  base.BaseClass:35 - clicking submit button
+06:07:53 [main] INFO  base.BaseClass:45 - Initializing browser
+06:07:55 [main] INFO  base.BaseClass:26 - initializing page elements
+06:07:55 [main] INFO  base.BaseClass:31 - typing username
+06:07:55 [main] INFO  base.BaseClass:33 - typing password
+06:07:55 [main] INFO  base.BaseClass:35 - clicking submit button
+06:07:55 [main] INFO  base.BaseClass:45 - Initializing browser
+06:07:57 [main] INFO  base.BaseClass:26 - initializing page elements
+06:07:57 [main] INFO  base.BaseClass:31 - typing username
+06:07:57 [main] INFO  base.BaseClass:33 - typing password
+06:07:57 [main] INFO  base.BaseClass:35 - clicking submit button
+06:07:57 [main] INFO  base.BaseClass:45 - Initializing browser
+06:07:59 [main] INFO  base.BaseClass:26 - initializing page elements
+06:07:59 [main] INFO  base.BaseClass:31 - typing username
+06:07:59 [main] INFO  base.BaseClass:33 - typing password
+06:08:00 [main] INFO  base.BaseClass:35 - clicking submit button
+06:08:00 [main] INFO  base.BaseClass:45 - Initializing browser
+06:08:02 [main] INFO  base.BaseClass:26 - initializing page elements
+06:08:02 [main] INFO  base.BaseClass:31 - typing username
+06:08:02 [main] INFO  base.BaseClass:33 - typing password
+06:08:02 [main] INFO  base.BaseClass:35 - clicking submit button
+06:08:02 [main] INFO  base.BaseClass:45 - Initializing browser
+06:08:04 [main] INFO  base.BaseClass:26 - initializing page elements
+06:08:04 [main] INFO  base.BaseClass:31 - typing username
+06:08:04 [main] INFO  base.BaseClass:33 - typing password
+06:08:04 [main] INFO  base.BaseClass:35 - clicking submit button

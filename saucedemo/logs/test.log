@@ -1,0 +1,16 @@
+10:40:12 [main] INFO  base.BaseClass:22 - Initializing browser
+10:40:14 [main] INFO  base.BaseClass:32 - Closing browser
+10:40:14 [main] INFO  base.BaseClass:22 - Initializing browser
+10:40:15 [main] INFO  base.BaseClass:32 - Closing browser
+10:40:15 [main] INFO  base.BaseClass:22 - Initializing browser
+10:40:17 [main] INFO  base.BaseClass:32 - Closing browser
+10:40:17 [main] INFO  base.BaseClass:22 - Initializing browser
+10:40:18 [main] INFO  base.BaseClass:32 - Closing browser
+10:40:55 [main] INFO  base.BaseClass:22 - Initializing browser
+10:40:57 [main] INFO  base.BaseClass:32 - Closing browser
+10:40:57 [main] INFO  base.BaseClass:22 - Initializing browser
+10:40:58 [main] INFO  base.BaseClass:32 - Closing browser
+10:40:59 [main] INFO  base.BaseClass:22 - Initializing browser
+10:41:00 [main] INFO  base.BaseClass:32 - Closing browser
+10:41:00 [main] INFO  base.BaseClass:22 - Initializing browser
+10:41:01 [main] INFO  base.BaseClass:32 - Closing browser

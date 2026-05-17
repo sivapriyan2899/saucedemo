@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="sauceDemo">
+	<listeners>
+		<listener class-name="listeners.TestListener" />
+	</listeners>
+	<test name="loginTest">
+
+		<classes>
+			<class name="tests.LoginPageTest">
+				<!-- <include name="loginWithValidCredentials" /> <include name="loginWithInvalidCredentials" 
+					/> -->
+				<methods>
+					<include name="loginWithInvalidCredentials" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>
