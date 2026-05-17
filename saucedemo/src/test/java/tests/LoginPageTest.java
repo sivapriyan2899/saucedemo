@@ -26,7 +26,7 @@ public class LoginPageTest extends BaseClass {
 		
 		LoginPage loginPage = new LoginPage(driver);
 		loginPage.submitToLogin(userName, passWord);
-		String actualMessage = "Epic sadface: credentials do not match any user in this service";
+		String actualMessage = "Epic sadface: username and password do not match any user in this service";
 		Assert.assertEquals(loginPage.getErrorMessage(), actualMessage);
 	}
 }
